@@ -1,0 +1,47 @@
+ul {
+    text-align: center;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+  
+}
+
+.boxmodel {
+    border: 15px solid red;
+    padding: 0px 50px;
+    margin: 0px 650px;
+    text-align: center;
+    font-size: 40px;
+}
+
+p{
+    text-align: center;
+    color: yellow;
+}
+
+.webtext {
+    border: 5px dashed green;
+}
+
+.myrna {
+    list-style: none;
+}
+
+.active {
+    color: red;
+    text-align: left;
+}
+
+#div1 {
+    background: rgba(0, 0, 255, 0.2);
+}
+
+#div2{
+background: rgba(255, 0, 0, 0.2)
+}
+
+img {
+    margin-left: 750px;
+} 

@@ -8,14 +8,6 @@ li {
   
 }
 
-.boxmodel {
-    border: 15px solid red;
-    padding: 0px 50px;
-    margin: 0px 650px;
-    text-align: center;
-    font-size: 40px;
-}
-
 p{
     text-align: center;
     color: yellow;
